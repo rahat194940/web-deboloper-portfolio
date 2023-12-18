@@ -142,5 +142,53 @@
     background-position: bottom right;
 }
 
+.section-title {
+   color :#181818;
+   font-family:'Open Sans', sans-serif;
+   font-size: 35px;
+   font-weight: 700;
+   margin-bottom: 15px;
+}
+
+.section-description {
+   color:#333;
+   font-family:'poppins', sans-serif ;
+   font-size: 18px;
+   margin-bottom: 47px;
+}
+   
+.info-title {
+   font-family:'poppins', sans-serif ;
+   font-size: 17px;
+   color:#757575 ;
+}
+
+.himu {
+  color:#474747;
+  font-family: 'Open Sans';
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+}
+
+.section-one {
+  padding: 150px 160px 135px 160px;
+  width: 1140px;
+  height: 270px;
+  border-radius: 10px;
+  background: #FFF8F3;
+  margin: 131px auto ;
+}
+
+.about-section-information-container {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+} 
+
+.section-one-welcome {
+  text-align: center;
+}
 
 
