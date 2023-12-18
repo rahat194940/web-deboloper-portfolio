@@ -241,3 +241,88 @@
 .section-two {
    margin-bottom: 131px;
 }
+
+.section-three-title {
+   color :#181818;
+   font-family:'Open Sans', sans-serif;
+   font-size: 35px;
+   font-weight: 700;
+   margin-bottom: 113px;
+   text-align: center;
+}
+
+.right-title,
+.left-title {
+   color: #333;
+   font-family: 'Open Sans';
+   font-size: 30px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   margin-bottom: 30px;
+}
+
+.resume {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   
+}
+ .section-three {
+   padding: 0 335px;
+   margin-bottom: 131px;
+ }
+
+ .imu {
+   color: #474747;
+   font-family: 'Open Sans';
+   font-size: 25px;
+   font-style: normal;
+   font-weight: 700;
+   line-height: normal;
+   margin-bottom: 10px;
+ }
+
+ .mahinur {
+   color:#757575;
+   font-family: 'Open Sans';
+   font-size: 20px;
+   font-style: normal;
+   line-height: normal;
+   margin-bottom: 15px;
+ }
+
+ .maimuna {
+   color:#757575; 
+   font-family: poppins;
+   font-size: 16px;
+   font-style: normal;
+   font-weight: 400;
+   line-height: 28px; 
+   width: 511px;
+ }
+
+ .education,
+ .experiences {
+   margin-bottom: 30px;
+}
+
+hr {
+   margin-bottom: 30px;
+   margin-top: 30px;
+}
+
+.sura {
+   width: 200px;
+   height: 64px;
+   border-radius: 5px;
+   background: #FD6E0A;
+   align-items: center;
+   display: flex;
+   color: #fff;
+   font-family: 'poppins';
+   font-size: 17px;
+   padding: 5px 5px 5px 15px;
+   margin: 60px auto;
+}
+
